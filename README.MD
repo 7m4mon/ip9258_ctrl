@@ -1,6 +1,6 @@
 # IP Power 9258 Controller from Serial Port (using PIC12F683)
 
-![](https://github.com/7m4mon/ip9258_ctrl/blob/main/ip9258_ctrl.jpg)
+![](https://github.com/7m4mon/ip9258_ctrl/blob/main/ip9258_serial_ctrl.jpg)
 
 How to use.  
 1. Set 4 DIP switchs to your specific state.
